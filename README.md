@@ -30,7 +30,6 @@ Insights to help the mall target specific groups with personalized offers.
 Prerequisites
 Ensure you have Python installed. Install dependencies using:
 
-bash
 ├── data  
 │   ├── mall_customers.csv        # Dataset  
 ├── notebooks  
