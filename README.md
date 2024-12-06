@@ -75,31 +75,23 @@ Plotting customer clusters for insights.
 🔍 Insights
 Identified groups of customers based on spending patterns and income levels.
 Insights to help the mall target specific groups with personalized offers.
-🚀 Getting Started
-Prerequisites
-Ensure you have Python installed. Install dependencies using:
-pip install -r requirements.txt  
-Running the Project
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your_username/mall-customer-segmentation.git  
-Navigate to the project folder:
-bash
-Copy code
-cd mall-customer-segmentation  
-Run the Jupyter notebooks or the main.py script for the analysis.
+
 📊 Results
 Here are the results of customer segmentation visualized:
+![image](https://github.com/user-attachments/assets/803edf4c-8c76-4d10-afde-61d0141a5d6e)
+![image](https://github.com/user-attachments/assets/1cf9bf18-9035-434a-8a1e-5155a0e111c8)
+![image](https://github.com/user-attachments/assets/acc8599f-d900-48f5-a6c8-21cd454d731c)
+![image](https://github.com/user-attachments/assets/c6e07d2c-c41f-4691-a004-f218e5ccd596)
+![image](https://github.com/user-attachments/assets/e70bbab6-fa00-414e-8aa9-42d3bfd020b2)
+
+
+
+
+
 
 🙌 Acknowledgments
 Dataset source: Kaggle - Mall Customer Segmentation Data
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-🌟 Connect
-GitHub: Your GitHub Profile
-LinkedIn: Your LinkedIn Profile
